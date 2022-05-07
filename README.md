@@ -2,7 +2,7 @@
 
 <div align="left">
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/VueX-test/blob/main/readme.gif)
  
 ## Вы получите
 <details >
@@ -16,10 +16,10 @@
 
 
 <details >
-  <summary > Vue router Переход на раные станицы без перезагрузки</summary>
+  <summary > Vue router </summary>
  
   [Что это?](https://router.vuejs.org/) 
- 
+    Переход на раные станицы без перезагрузки
     Роутиг на страницах осуществляется через [<router-view>]
     шапка сайта остается неизменной и не загрудается при смене страниц
 </details>
