@@ -19,24 +19,19 @@
   <summary > Vue router </summary>
  
   [Что это?](https://router.vuejs.org/) 
-    Переход на раные станицы без перезагрузки
-    Роутиг на страницах осуществляется через [<router-view>]
-    шапка сайта остается неизменной и не загрудается при смене страниц
+    Переход на разые станицы без перезагрузки
+    роутиг на страницах осуществляется через <router-view>
+    шапка сайта остается неизменной и не перезагружается при смене страниц
 </details>
 
 <details>
   <summary>SCSS</summary>
  
   [Что это?](https://sass-scss.ru/)  
-
     Вы можете изменять  настройки в вашем проекте. 
-    Для  автоматической комполироваться файл css необходимо запустить  
-    Live Sass Compiler 
-  [Что это?](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)  
-
+    Для  автоматического комполирования файлов css необходимо запустить  Live Sass Compiler [Что это?](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
     В проекте scss создает 3 css файла style-light style-dark style-neutral
     для разных цветовых тем.
-
     Конфигурации нужно изменять в файлах variables_light.scss variables_dark.scss variables_neutral.scss
 </details>
 
@@ -54,14 +49,14 @@
   [Что это?](https://ru.wikipedia.org/wiki/Localhost) 
  
   По умолчанию принимаем 10 постов с сайта "https://jsonplaceholder.typicode.com/posts?_limit=10"
-  Обрабоька происходит в VueX в файле posts.js
+  обработка происходит с помощью VueX в файле posts.js
 </details>
 
  ## Для запуска потребуется
 
 - этот репозиторий 
  ```
-git clone https://github.com/VladislavBobyrev/
+git clone https://github.com/VladislavBobyrev/VueX-test
 ```
 - node.js 
  
@@ -80,13 +75,13 @@ https://nodejs.org/en/
 | Собрать                | `npm run build`       |
  
  
-## Связвться со мной
-<div align='center'> 
- 
+## Связаться со мной
+
  ```
 vladislavbobyrev@yandex.ru
 ```
- 
+ <div align='center'> 
+  
  [![TELEGRAMM](https://img.shields.io/badge/telegramm-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://t.me/VladislavBobyrev)
 
  </div>
